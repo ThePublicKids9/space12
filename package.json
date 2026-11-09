@@ -1,0 +1,13 @@
+{
+  "name": "cloud-node-sandbox",
+  "version": "1.0.0",
+  "description": "A clean Node runtime wrapper for isolated iframe rendering.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@titaniumnetwork-dev/ultraviolet": "^3.2.7",
+    "express": "^4.19.2"
+  }
+}
